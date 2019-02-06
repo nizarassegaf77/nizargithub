@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github User Info</string>
+    <string name="user">User Information</string>
+    <string name="data_not_found">Username yang Anda cari tidak ditemukan</string>
+    <string name="back_to_exit">Tekan kembali sekali lagi untuk keluar</string>
+    <string name="silahkan_lakukan_pencarian_data_user_berdasarkan_username_yang_anda_cari">Silahkan lakukan pencarian data user berdasarkan username</string>
+    <string name="data_tidak_ditemukan">Data Tidak Ditemukan</string>
+    <string name="date_update_on">Updated on %s</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="repository">repository</string>
+</resources>
